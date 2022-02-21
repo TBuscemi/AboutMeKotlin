@@ -1,3 +1,5 @@
 <resources>
     <string name="app_name">AboutMe</string>
+    <string name="name">Thomas Buscemi</string>
+    <string name="thomas_buscemi">Thomas Buscemi</string>
 </resources>
